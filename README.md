@@ -1,6 +1,5 @@
-# kumar
-My brother
+# Kumar
+Virtual assistant
 
 https://kumar.rajendraarora.com/
 
-Soon he is coming away!
